@@ -1,7 +1,7 @@
 package com.kodilla.kodillacourse;
 
 public class Calculator {
-    public void Addiion() {
+    public void Addition() {
         System.out.println("Dodawanie");
 
     }
@@ -12,7 +12,7 @@ public class Calculator {
 
     public static void main(String args[]){
         Calculator calculator = new Calculator();
-        calculator.Addiion();
+        calculator.Addition();
         calculator.Subtraction();
     }
 }
